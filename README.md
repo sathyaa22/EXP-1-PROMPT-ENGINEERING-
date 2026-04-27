@@ -28,7 +28,7 @@ Evaluation & Deployment : The model is tested with metrics like perplexity, BLEU
 
 ## Output
 
-[PROMPT EX1 PDF(1).pdf](https://github.com/user-attachments/files/22099894/PROMPT.EX1.PDF.1.pdf)
+[PROMPT EXP 1.pdf](https://github.com/user-attachments/files/27112137/PROMPT.EXP.1.pdf)
 
 ## Result
 The experiment showed that prompt design greatly improves the quality of outputs from LLMs. It successfully demonstrated Generative AI concepts, architectures, applications, and scaling impacts.

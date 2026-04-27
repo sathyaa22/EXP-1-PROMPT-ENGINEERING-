@@ -28,8 +28,7 @@ Evaluation & Deployment : The model is tested with metrics like perplexity, BLEU
 
 ## Output
 
-[Uploading GEN AI REPORT.pdf…]()
-
+[GEN AI REPORT.pdf](https://github.com/user-attachments/files/27112177/GEN.AI.REPORT.pdf)
 
 ## Result
 The experiment showed that prompt design greatly improves the quality of outputs from LLMs. It successfully demonstrated Generative AI concepts, architectures, applications, and scaling impacts.
